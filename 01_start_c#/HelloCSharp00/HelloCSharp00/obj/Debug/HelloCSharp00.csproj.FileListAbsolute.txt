@@ -8,3 +8,13 @@ D:\dj\20231106_AI12\djCSharp\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\H
 D:\dj\20231106_AI12\djCSharp\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.csproj.CoreCompileInputs.cache
 D:\dj\20231106_AI12\djCSharp\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.exe
 D:\dj\20231106_AI12\djCSharp\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.pdb
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\bin\Debug\HelloCSharp00.exe.config
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\bin\Debug\HelloCSharp00.exe
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\bin\Debug\HelloCSharp00.pdb
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.csproj.AssemblyReference.cache
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.Form1.resources
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.Properties.Resources.resources
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.csproj.GenerateResource.cache
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.csproj.CoreCompileInputs.cache
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.exe
+D:\dj\20240318_djlee\01_start_c#\HelloCSharp00\HelloCSharp00\obj\Debug\HelloCSharp00.pdb

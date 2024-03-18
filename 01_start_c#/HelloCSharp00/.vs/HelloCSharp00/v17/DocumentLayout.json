@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dj\\20231106_AI12\\djCSharp\\01_start_c#\\HelloCSharp00\\",
+  "WorkspaceRootPath": "D:\\dj\\20240318_djlee\\01_start_c#\\HelloCSharp00\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3598A3E9-89E6-4754-A3C2-C12FEE2987CC}|HelloCSharp00\\HelloCSharp00.csproj|d:\\dj\\20231106_ai12\\djcsharp\\01_start_c#\\hellocsharp00\\hellocsharp00\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3598A3E9-89E6-4754-A3C2-C12FEE2987CC}|HelloCSharp00\\HelloCSharp00.csproj|d:\\dj\\20240318_djlee\\01_start_c#\\hellocsharp00\\hellocsharp00\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3598A3E9-89E6-4754-A3C2-C12FEE2987CC}|HelloCSharp00\\HelloCSharp00.csproj|solutionrelative:hellocsharp00\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3598A3E9-89E6-4754-A3C2-C12FEE2987CC}|HelloCSharp00\\HelloCSharp00.csproj|d:\\dj\\20231106_ai12\\djcsharp\\01_start_c#\\hellocsharp00\\hellocsharp00\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3598A3E9-89E6-4754-A3C2-C12FEE2987CC}|HelloCSharp00\\HelloCSharp00.csproj|D:\\dj\\20240318_djlee\\01_start_c#\\HelloCSharp00\\hellocsharp00\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3598A3E9-89E6-4754-A3C2-C12FEE2987CC}|HelloCSharp00\\HelloCSharp00.csproj|solutionrelative:hellocsharp00\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,17 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\dj\\20231106_AI12\\djCSharp\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs",
+              "DocumentMoniker": "D:\\dj\\20240318_djlee\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs",
               "RelativeDocumentMoniker": "HelloCSharp00\\Form1.cs",
-              "ToolTip": "D:\\dj\\20231106_AI12\\djCSharp\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs*",
-              "RelativeToolTip": "HelloCSharp00\\Form1.cs*",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAvwBUAAAAYAAAA",
+              "ToolTip": "D:\\dj\\20240318_djlee\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs",
+              "RelativeToolTip": "HelloCSharp00\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvxoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T06:09:13.605Z",
               "EditorCaption": ""
@@ -37,17 +41,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "D:\\dj\\20231106_AI12\\djCSharp\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs",
+              "DocumentMoniker": "D:\\dj\\20240318_djlee\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs",
               "RelativeDocumentMoniker": "HelloCSharp00\\Form1.cs",
               "ToolTip": "D:\\dj\\20231106_AI12\\djCSharp\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs [\uB514\uC790\uC778]*",
-              "RelativeToolTip": "HelloCSharp00\\Form1.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "..\\..\\..\\20231106_AI12\\djCSharp\\01_start_c#\\HelloCSharp00\\HelloCSharp00\\Form1.cs [\uB514\uC790\uC778]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T06:08:04.914Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-03-18T06:08:04.914Z"
             }
           ]
         }
